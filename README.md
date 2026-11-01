@@ -9,7 +9,7 @@ Everything qiemem's firmware does still works.
 
 ## Download
 
-Get the firmware from [firmware/](firmware/), or right-click a link and choose Save Link As:
+Get the firmware from the [v1.0 release](https://github.com/thisisbribery/qiemem-bribery-edition/releases/tag/v1.0) or [firmware/](firmware/), or right-click a link and choose Save Link As:
 - [qiemem-bribery-edition-v1.0.wav](https://github.com/thisisbribery/qiemem-bribery-edition/raw/main/firmware/qiemem-bribery-edition-v1.0.wav), for a module mounted normally.
 - [qiemem-bribery-edition-v1.0-flipped.wav](https://github.com/thisisbribery/qiemem-bribery-edition/raw/main/firmware/qiemem-bribery-edition-v1.0-flipped.wav), for a module mounted upside down.
 
